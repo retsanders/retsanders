@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @retsanders
-- 👀 I’m interested in ... TBC
-- 🌱 I’m currently learning ... TBD
+- 👀 I’m interested in ... TBD
+- 🌱 I’m currently learning ... TBC
 - 💞️ I’m looking to collaborate on ... most anything
 - 📫 How to reach me ... it's best to reach me by email or on linkedin
 
